@@ -43,7 +43,7 @@
       <recent name="C:\Users\eduar\IdeaProjects\SpiralUITest\src\java\spiral_ui_test\model" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DucksTest">
+  <component name="RunManager" selected="TestNG.DuckTestPom">
     <configuration name="DuckTestPom" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SpiralUITest" />
       <extension name="coverage">
@@ -80,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DucksTest" />
         <item itemvalue="TestNG.DuckTestPom" />
+        <item itemvalue="TestNG.DucksTest" />
       </list>
     </recent_temporary>
   </component>
