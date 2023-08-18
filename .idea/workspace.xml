@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28104723-c5d8-400d-834a-e5970ff9f5dd" name="Changes" comment="UI 1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="28104723-c5d8-400d-834a-e5970ff9f5dd" name="Changes" comment="UI 1.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2571735f-29a3-43dc-a37c-d416359c35b6" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,7 +30,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/eduar/IdeaProjects/SpiralUITest/src"
+    "last_opened_file_path": "C:/Users/eduar/IdeaProjects/SpiralUITest/src",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -99,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692388494995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UI 1.0">
+      <created>1692394598338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394598338</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UI 1.1">
+      <created>1692394723517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394723517</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UI 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI 1.0" />
+    <MESSAGE value="UI 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI 1.1" />
   </component>
 </project>
