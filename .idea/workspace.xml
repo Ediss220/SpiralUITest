@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28104723-c5d8-400d-834a-e5970ff9f5dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/spiral_ui_test/model/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/spiral_ui_test/model/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/spiral_ui_test/runner/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/spiral_ui_test/runner/ProjectUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/spiral_ui_test/tests/DuckTestPom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/spiral_ui_test/tests/DucksTest.java" afterDir="false" />
+    <list default="true" id="28104723-c5d8-400d-834a-e5970ff9f5dd" name="Changes" comment="UI 1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692387880759</updated>
     </task>
+    <task id="LOCAL-00001" summary="UI 1.0">
+      <created>1692388494995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692388494995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UI 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI 1.0" />
   </component>
 </project>
