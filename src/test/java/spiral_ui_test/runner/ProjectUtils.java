@@ -13,25 +13,7 @@ import java.net.URL;
 import static java.util.concurrent.TimeUnit.SECONDS;
 
 public class ProjectUtils {
-    private static final String HUB_URL = "http://localhost:4444/wd/hub";
-    private static boolean remoteWebDriver = false;
-    static {
-        try {
-            HttpURLConnection con = (HttpURLConnection) new URL(HUB_URL + "/status").openConnection();
-            try {
-                con.setRequestMethod("GET");
-                remoteWebDriver = con.getResponseCode() == HttpURLConnection.HTTP_OK;
-            } finally {
-                con.disconnect();
-            }
-        } catch (IOException ignore) {}
 
-        if (!remoteWebDriver) {
-
-            WebDriverManager.chromedriver().setup();
-
-        }
-    }
     static void get(WebDriver driver) {
         driver.get("https://google.com/");
     }
