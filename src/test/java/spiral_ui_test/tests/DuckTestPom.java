@@ -12,7 +12,11 @@ import spiral_ui_test.runner.BaseTest;
 import static org.testng.AssertJUnit.assertEquals;
 
 public class DuckTestPom extends BaseTest {
-
+    /**
+     * This class created for Search Testing
+     * @author edward isakov
+     * @lastmodifiedby edward isakov
+     */
     @Severity(SeverityLevel.NORMAL)
     @Feature("Functional")
     @Description("Verified that the search box is present on the page and is visible to the user.")
