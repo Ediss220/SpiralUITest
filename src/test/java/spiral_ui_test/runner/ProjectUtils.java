@@ -22,12 +22,10 @@ public class ProjectUtils {
         WebDriver driver;
 
         ChromeOptions chromeOptions = new ChromeOptions();
-        chromeOptions.addArguments("--window-size=1920,1080");
+        chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("--remote-allow-origins=*");
         chromeOptions.addArguments("headless");
-        chromeOptions.addArguments("--disable-gpu");
-        chromeOptions.addArguments("--no-sandbox");
-        chromeOptions.addArguments("--disable-dev-shm-usage");
+        
 
         driver = new ChromeDriver(chromeOptions);
         driver.manage().timeouts().implicitlyWait(5, SECONDS);

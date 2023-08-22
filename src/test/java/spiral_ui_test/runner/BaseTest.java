@@ -39,12 +39,6 @@ public abstract class BaseTest {
             driver.quit();
         }
     }
-    protected WebDriverWait getWait2() {
-        if (wait2 == null) {
-            wait2 = new WebDriverWait(getDriver(), Duration.ofSeconds(2));
-        }
-        return wait2;
-    }
     public static void log(String str) {
         System.out.println(str);
     }
